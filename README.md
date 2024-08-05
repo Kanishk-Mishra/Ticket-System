@@ -2,8 +2,8 @@
 
 ## Features
 
-- Search Tickets in Ticket System App along with Discourse.
-- Create ticket on Ticket System Application along with post on Discourse.
+- Search for tickets in the Ticket System App along with Discourse.
+- Create a ticket on the Ticket System Application along with a post on Discourse.
 - Notification to GChat for High/Urgent priority ticket creation.
 
 ## Used Discourse API Docs
@@ -17,15 +17,15 @@
 ## Clone the repository
 
 ```
-https://github.com/Ashutosh-tec/soft-engg-project-jan-2024-se-jan-11.git
+https://github.com/Kanishk-Mishra/Ticket-System.git
 ```
 
-## Go to respective directory
+## Go to the respective directory
 
 Note: Please clone the repo first.
 
 ```
-cd soft-engg-project-jan-2024-se-jan-11/Milestone-6-Final-Submission/Code/backend
+cd backend
 ```
 
 ## Installation
